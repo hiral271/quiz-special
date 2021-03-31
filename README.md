@@ -22,12 +22,16 @@ so user will encounter with time limit.
  ![front page ](https://github.com/hiral271/quiz-special/blob/main/view/Document%2B-%2BGoogle%2BChrome%2B2021-03-31%2Bat%2B4.05.49%2BPM.jpeg)
 
 
+
+
  ![](https://github.com/hiral271/quiz-special/blob/main/view/Document%2B-%2BGoogle%2BChrome%2B2021-03-31%2Bat%2B4.06.07%2BPM.jpeg)
  
- ![](https://github.com/hiral271/quiz-special/blob/main/view/Document%2B-%2BGoogle%2BChrome%2B2021-03-31%2Bat%2B4.06.07%2BPM.jpeg)
+
  
  
   ![](https://github.com/hiral271/quiz-special/blob/main/view/Document%2B-%2BGoogle%2BChrome%2B2021-03-31%2Bat%2B4.07.20%2BPM.jpeg)
   
+   
+   
    
   ![](https://github.com/hiral271/quiz-special/blob/main/view/Document%2B-%2BGoogle%2BChrome%2B2021-03-31%2Bat%2B4.08.10%2BPM.jpeg)
