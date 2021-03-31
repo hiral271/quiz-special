@@ -17,3 +17,4 @@
 so user will encounter with time limit.
 
 * user will get input space to  write his gamer identity .
+()[https://github.com/hiral271/quiz-special/tree/main/view]
