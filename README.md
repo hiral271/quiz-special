@@ -17,4 +17,6 @@
 so user will encounter with time limit.
 
 * user will get input space to  write his gamer identity .
-()[https://github.com/hiral271/quiz-special/tree/main/view]
+
+
+ ![front page ](https://github.com/hiral271/quiz-special/blob/main/view/Document%2B-%2BGoogle%2BChrome%2B2021-03-31%2Bat%2B3.51.50%2BPM.jpeg)
