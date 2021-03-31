@@ -1,0 +1,58 @@
+#timer{
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 100px;
+    width: 180px;
+    margin: auto;
+    font-size: 36px;
+    color: brown;
+    }
+    #time{
+    
+        margin: 20px 35px;
+    }
+    
+    
+    
+    
+    .wrong , .right{
+    margin: auto;
+    
+    }
+    body{
+    
+    border: 2px solid brown;
+    border-radius: 10px ;
+    border-style: dashed;
+    height: 800px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+    }
+    
+    #view{
+    
+        margin: 100px 100px;
+    }
+
+    body{
+
+        background-color:rgb(236, 229, 241);
+        background-repeat: no-repeat;
+    
+    
+    }
+    button {
+        background-color: #0d6efd; 
+        border-radius: 12px;
+        border: none;
+        color: white;
+        padding: 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+      
